@@ -1,0 +1,15 @@
+{
+  "name": "02-express",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "este es un proyecto de prueba con express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bluuweb",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
