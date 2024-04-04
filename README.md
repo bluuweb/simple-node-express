@@ -33,3 +33,8 @@ Agregar al package.json
     "dev": "nodemon index.js"
 },
 ```
+
+Finalmente ejecutar en consola:
+```sh
+npm run dev
+```
