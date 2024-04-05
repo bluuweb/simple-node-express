@@ -38,3 +38,8 @@ Finalmente ejecutar en consola:
 ```sh
 npm run dev
 ```
+
+## Middleware
+
+Los middlewares son funciones que se activan antes que nuestras rutas y nos sirven como filtro o estación previa.
+

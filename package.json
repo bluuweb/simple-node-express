@@ -5,7 +5,8 @@
   "description": "este es un proyecto de prueba con express",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "bluuweb",
   "license": "ISC",
